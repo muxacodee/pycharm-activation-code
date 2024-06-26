@@ -5,3 +5,5 @@
 **Support:** [Telegram](https://t.me/icofaq)
 
 **Code:** [Click here](https://github.com/icosoft-uz/pycharm-activation-code/blob/main/code.txt)
+
+**Don't forget to rate and comment!**
