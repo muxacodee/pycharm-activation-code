@@ -6,4 +6,5 @@
 
 **Code:** [Click here](https://github.com/icosoft-uz/pycharm-activation-code/blob/main/code.txt)
 
-**Don't forget to star and comment!**
+
+**Don't forget to ⭐ star and ✍️ comment!**
