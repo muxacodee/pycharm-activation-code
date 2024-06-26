@@ -1,4 +1,4 @@
-# PyCharm Professional Activation Information
+# PyCharm Professional Activation Code
 
 **Expiration: 2026 September 14**
 
