@@ -4,4 +4,4 @@
 
 **Support:** [Telegram](https://t.me/icofaq)
 
-**Code:** [Click here](https://github.com/icosoft-uz/pycharm-activation-code/code.txt)
+**Code:** [Click here](https://github.com/icosoft-uz/pycharm-activation-code/blob/main/code.txt)
