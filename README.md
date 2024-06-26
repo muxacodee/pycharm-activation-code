@@ -1,6 +1,6 @@
 # PyCharm Professional Activation Information
 
-**Expiration:** *2026 September 14*
+**Expiration: 2026 September 14**
 
 **Support:** [Telegram](https://t.me/icofaq)
 
