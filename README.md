@@ -1,10 +1,28 @@
-# PyCharm Professional Activation Code
+# Steps to activate Pycharm
 
-**Expiration:** ``2026 September 14``
+1. **Clone this repository**
 
-**Support:** [Telegram](https://t.me/icofaq)
+``git clone https://github.com/icosoft-uz/pycharm-activation-code.git``
 
-**Code:** [Click here](https://github.com/icosoft-uz/pycharm-activation-code/blob/main/code.txt)
+2. **Extract activator file**
+   1. ``cd pycharm-activation-code``
+   2.
+      **MacOS/Linux**
+      ``unzip activator.zip``
+     **Windows**
+     ``expand activator.zip``
 
+3. **open and activate**
+   **MacOS/Linux**
+   1. ``cd activator/scripts``
+   2. ``./install.sh``
+      
+   **Windows**
+   1. ``cd activator/scripts``
+   2. ``cscript install-all-users.vbs``
 
-**Don't forget to ⭐ star and ✍️ comment!**
+# Activate Pycharm
+
+1. Open Pycharm
+2. Select activation key
+3. paste activation key (in code.txt)
