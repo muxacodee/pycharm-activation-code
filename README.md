@@ -1,33 +1,34 @@
-# Steps to activate Pycharm
+Certainly! Let's break down the steps for activating PyCharm:
 
-1. **Clone this repository**
+## Activating PyCharm
 
-``git clone https://github.com/icosoft-uz/pycharm-activation-code.git``
+1. **Clone the Repository**
+    - Open your terminal or command prompt.
+    - Run the following command to clone the repository:
 
-2. **Enter the repository**
-``cd pycharm-activation-code``
+        ```bash
+        git clone https://github.com/icosoft-uz/pycharm-activation-code.git
+        ```
 
-3. **Extract zip file**
+2. **Navigate to the Repository**
+    - Change your working directory to the cloned repository:
 
-**MacOS/Linux**
-      
-``unzip activator.zip``
-      
-**Windows**
-      
-``expand activator.zip``
+        ```bash
+        cd pycharm-activation-code
+        ```
 
-4. **Open and activate**
-**MacOS/Linux**
-1. ``cd activator/scripts``
-2. ``./install.sh``
-      
-**Windows**
-1. ``cd activator/scripts``
-2. ``cscript install-all-users.vbs``
+3. **Extract the Zip File**
+    - Depending on your operating system, extract the zip file:
+        - **MacOS/Linux**:
+            ```bash
+            unzip activator.zip
+            ```
+        - **Windows**:
+            ```bash
+            expand activator.zip
+            ```
 
-# Activate Pycharm
-
-1. *Open Pycharm*
-2. *Select activation key*
-3. *Paste activation key (in code.txt)*
+4. **Activate PyCharm**
+    - Open PyCharm.
+    - When prompted for activation, select the activation key option.
+    - Paste the activation key from the `code.txt` file.
