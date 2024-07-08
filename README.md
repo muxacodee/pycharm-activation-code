@@ -1,5 +1,3 @@
-Certainly! Let's break down the steps for activating PyCharm:
-
 ## Activating PyCharm
 
 1. **Clone the Repository**
