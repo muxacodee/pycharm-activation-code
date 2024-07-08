@@ -6,11 +6,14 @@
 
 2. **Extract activator file**
    1. ``cd pycharm-activation-code``
-   2.
-      **MacOS/Linux**
+
+   2. **MacOS/Linux**
+      
       ``unzip activator.zip``
-     **Windows**
-     ``expand activator.zip``
+      
+      **Windows**
+      
+      ``expand activator.zip``
 
 3. **open and activate**
    **MacOS/Linux**
