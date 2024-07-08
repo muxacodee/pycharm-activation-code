@@ -1,3 +1,4 @@
+
 ## Activating PyCharm
 
 1. **Clone the Repository**
@@ -26,7 +27,20 @@
             expand activator.zip
             ```
 
-4. **Activate PyCharm**
+4. **Run the Activation Script**
+    - Continue in the terminal or command prompt:
+        - **MacOS/Linux**:
+            ```bash
+            cd activator/scripts
+            ./install.sh
+            ```
+        - **Windows**:
+            ```bash
+            cd activator/scripts
+            cscript install-all-users.vbs
+            ```
+
+5. **Activate PyCharm**
     - Open PyCharm.
     - When prompted for activation, select the activation key option.
     - Paste the activation key from the `code.txt` file.
